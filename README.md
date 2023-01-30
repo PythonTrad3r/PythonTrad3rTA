@@ -8,25 +8,27 @@ For this, it takes 'High', 'Low', 'Open', 'Close', 'Volume' with the first lette
 <br>
 Keep in mind that some methods take the historical data as is, while some take only the close, and 1 takes just the current candle.
 
-#### INDICATORS ####
-## RSI 
-## EMA
-## VWAP
-## MACD
-## Super Trend
-## Stochastic
-## Bollinger Bands
-## Volume SMA
-## SMA (Simple Moving Average)
+<b> INDICATORS </b><br>
+RSI <br>
+EMA <br>
+VWAP <br>
+MACD <br>
+Super Trend <br>
+Stochastic <br>
+Bollinger Bands <br>
+Volume SMA <br>
+SMA (Simple Moving Average) <br>
 
-#### CANDLE PATTERNS ####
-## Bullish/Bearish Engulfing
-## Bullish/Bearish Pin Bars
-## Tweezer Top/Bottom
+<b> CANDLE PATTERNS </b><br>
+Bullish/Bearish Engulfing <br>
+Bullish/Bearish Pin Bars <br>
+Tweezer Top/Bottom <br>
 
-#### CHART PATTERNS ####
-## Hidden Divergence
-## EMA Golden/Death Cross
+<b> CHART PATTERNS </b><br>
+Hidden Divergence <br>
+EMA Golden/Death Cross <br>
+
+<br>
 
 ### Example 1 - How to apply the script.
 
