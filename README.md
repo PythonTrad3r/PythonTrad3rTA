@@ -3,7 +3,7 @@
 ## Quick Start
 
 PythonTrad3rTA works with any timeframe (Except VWAP which only works in 5min or lower).<br>
-For the most part, all of the methods take historical data as a pandas dataframe.<br>
+All of the methods take historical data as a pandas dataframe.<br>
 For this, it takes 'High', 'Low', 'Open', 'Close', 'Volume' with the first letter capitalized.<br>
 <br>
 Keep in mind that some methods take the historical data as is, while some take only the close, and 1 takes just the current candle.
